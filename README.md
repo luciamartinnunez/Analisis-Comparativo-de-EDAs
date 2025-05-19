@@ -46,16 +46,27 @@ A detailed explanation of the results, together with visualizations (heatmaps, c
 ├── figures/
 
 │ └── ... # Plots for convergence and model structure
+
 ├── src/
+
 │ ├── eda_umda.py
+
 │ └── ga_baseline.py
+
 ├── documentation/
+
 │ ├── eda_experiments_onemax.html
+
 │ └── knapsack_experiment_local.html
+
 ├── report/
+
 │ ├── Seminar_7.pdf
+
 │ └── Seminario_7.pdf
+
 ├── README.md
+
 └── requirements.txt
 
 

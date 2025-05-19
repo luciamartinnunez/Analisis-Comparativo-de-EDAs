@@ -38,9 +38,13 @@ A detailed explanation of the results, together with visualizations (heatmaps, c
 
 ## 📁 Repository Structure
 📦 Comparative-EDAs/
+
 ├── data/
+
 │ └── ... # CSV files with recorded generations, fitness, etc.
+
 ├── figures/
+
 │ └── ... # Plots for convergence and model structure
 ├── src/
 │ ├── eda_umda.py

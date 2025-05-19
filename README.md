@@ -71,17 +71,22 @@ All experiments are fully reproducible. Notebooks scripts are provided to re-run
 Optima by Estimating Probability Densities. In Mozer, M., Jordan, M. I., and Petsche, T.,
 editors, Advances in Neural Information Processing Systems 9, NIPS, Denver, CO, USA,
 December 2-5, 1996, pages 424–430. MIT Press.
+
 [Krejca and Witt, 2020] Krejca, M. S. and Witt, C. (2020). Lower bounds on the run time
 of the Univariate Marginal Distribution Algorithm on OneMax. Theoretical Computer
 Science, 832:143–165. Theory of Evolutionary Computation.
+
 [Larra˜naga and Lozano, 2002] Larrañaga, P. and Lozano, J. A., editors (2002). Estimation
 of Distribution Algorithms. Genetic Algorithms and Evolutionary Computation. Springer.
+
 [M¨uhlenbein and Paaß, 1996] M¨úhlenbein, H. and Paaß, G. (1996). From recombination of
 genes to the estimation of distributions I. Binary parameters. In Voigt, H.-M., Ebeling,
 W., Rechenberg, I., and Schwefel, H.-P., editors, Parallel Problem Solving from Nature —
 PPSN IV, pages 178–187, Berlin, Heidelberg. Springer Berlin Heidelberg.
+
 [M¨uhlenbein, 1997] M¨uhlenbein, H. (1997). The Equation for Response to Selection and Its
 Use for Prediction. Evolutionary Computation, 5(3):303–346.
+
 [Soloviev et al., 2024] Soloviev, V. P., Larrañaga, P., and Bielza, C. (2024). EDAspy: An
 extensible python package for estimation of distribution algorithms. Neurocomputing,
 598:128043.

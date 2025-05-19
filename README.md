@@ -109,5 +109,5 @@ extensible python package for estimation of distribution algorithms. Neurocomput
 
 ## 📌 License
 
-This project is distributed under the MIT License.
+This project is distributed under the [MIT License](./LICENSE).
 
